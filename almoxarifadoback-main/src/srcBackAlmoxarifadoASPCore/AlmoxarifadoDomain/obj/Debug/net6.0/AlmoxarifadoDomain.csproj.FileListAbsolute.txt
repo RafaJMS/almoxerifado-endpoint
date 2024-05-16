@@ -54,3 +54,14 @@ C:\Users\tarde.cetafaju\Downloads\almoxarifadoback-main\almoxarifadoback-main\sr
 C:\Users\tarde.cetafaju\Downloads\almoxarifadoback-main\almoxarifadoback-main\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\refint\AlmoxarifadoDomain.dll
 C:\Users\tarde.cetafaju\Downloads\almoxarifadoback-main\almoxarifadoback-main\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\AlmoxarifadoDomain.pdb
 C:\Users\tarde.cetafaju\Downloads\almoxarifadoback-main\almoxarifadoback-main\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\ref\AlmoxarifadoDomain.dll
+C:\Users\tarde.cetafaju\Documents\GitHub\almoxerifado-endpoint\almoxarifadoback-main\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\bin\Debug\net6.0\AlmoxarifadoDomain.deps.json
+C:\Users\tarde.cetafaju\Documents\GitHub\almoxerifado-endpoint\almoxarifadoback-main\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\bin\Debug\net6.0\AlmoxarifadoDomain.dll
+C:\Users\tarde.cetafaju\Documents\GitHub\almoxerifado-endpoint\almoxarifadoback-main\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\bin\Debug\net6.0\AlmoxarifadoDomain.pdb
+C:\Users\tarde.cetafaju\Documents\GitHub\almoxerifado-endpoint\almoxarifadoback-main\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\AlmoxarifadoDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafaju\Documents\GitHub\almoxerifado-endpoint\almoxarifadoback-main\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\AlmoxarifadoDomain.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafaju\Documents\GitHub\almoxerifado-endpoint\almoxarifadoback-main\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\AlmoxarifadoDomain.AssemblyInfo.cs
+C:\Users\tarde.cetafaju\Documents\GitHub\almoxerifado-endpoint\almoxarifadoback-main\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\AlmoxarifadoDomain.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafaju\Documents\GitHub\almoxerifado-endpoint\almoxarifadoback-main\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\AlmoxarifadoDomain.dll
+C:\Users\tarde.cetafaju\Documents\GitHub\almoxerifado-endpoint\almoxarifadoback-main\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\refint\AlmoxarifadoDomain.dll
+C:\Users\tarde.cetafaju\Documents\GitHub\almoxerifado-endpoint\almoxarifadoback-main\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\AlmoxarifadoDomain.pdb
+C:\Users\tarde.cetafaju\Documents\GitHub\almoxerifado-endpoint\almoxarifadoback-main\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\ref\AlmoxarifadoDomain.dll

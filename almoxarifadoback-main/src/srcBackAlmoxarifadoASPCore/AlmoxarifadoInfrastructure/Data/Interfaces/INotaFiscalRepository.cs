@@ -10,7 +10,6 @@ namespace AlmoxarifadoInfrastructure.Data.Interfaces
     public interface INotaFiscalRepository
     {
         List<Nota_Fiscal> ObterTodasNotasFiscais();
-        Nota_Fiscal ObterNotaFiscalPorId(int id);
         Nota_Fiscal CriarNotaFiscal(Nota_Fiscal notaFiscal);
     }
 }

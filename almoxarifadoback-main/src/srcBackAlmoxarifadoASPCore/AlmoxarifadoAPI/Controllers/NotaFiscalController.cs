@@ -36,7 +36,7 @@ namespace AlmoxarifadoAPI.Controllers
             try
             {
                 var notaFiscalSalva = _notaFiscalService.CriarNotaFiscal(notaFiscal);
-                return CreatedAtAction(nameof(Get), new { id = notaFiscalSalva.ID_NOTA }, notaFiscalSalva);
+                return Ok(notaFiscalSalva);
             }
             catch (Exception)
             {

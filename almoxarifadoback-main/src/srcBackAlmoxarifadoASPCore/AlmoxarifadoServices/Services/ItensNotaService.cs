@@ -28,23 +28,18 @@ namespace AlmoxarifadoServices.Services
             return mapper.Map<List<ItensNotaGetDTO>>(_itensNotaRepository.ObterTodosItensNota());
         }
 
-        public Itens_Nota ObterItemNotaPorID(int id)
-        {
-            return _itensNotaRepository.ObterItemNotaPorID(id);
-        }
-
         public ItensNotaGetDTO CriarItemNota(ItensNotaPostDTO itemNota)
         {
             var itemNotaSalvo = _itensNotaRepository.CriarItemNota(
                 new Itens_Nota
                 {
+                    ITEM_NUM = itemNota.ITEM_NUM,
                     ID_PRO = itemNota.ID_PRO,
                     ID_NOTA = itemNota.ID_NOTA,
                     ID_SEC = itemNota.ID_SEC,
                     QTD_PRO = itemNota.QTD_PRO,
                     PRE_UNIT = itemNota.PRE_UNIT,
                     EST_LIN = itemNota.EST_LIN,
-                    ITEM_NUM = itemNota.ITEM_NUM,
                 }
             );
 

@@ -31,11 +31,6 @@ namespace AlmoxarifadoServices.Services
             return mapper.Map<List<NotaFiscalGetDTO>>(_notaFiscalRepository.ObterTodasNotasFiscais());
         }
 
-        public Nota_Fiscal ObterNotaFiscalPorId(int id)
-        {
-            return _notaFiscalRepository.ObterNotaFiscalPorId(id);
-        }
-
         public NotaFiscalGetDTO CriarNotaFiscal(NotaFiscalPostDTO notaFiscal)
         {
             var notaFiscalSalva = _notaFiscalRepository.CriarNotaFiscal(

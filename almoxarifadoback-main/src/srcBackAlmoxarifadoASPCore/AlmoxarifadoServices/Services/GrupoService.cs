@@ -30,13 +30,11 @@ namespace AlmoxarifadoServices.Services
         {
             var mapper = configurationMapper.CreateMapper();
 
-
             return mapper.Map<List<GrupoGetDTO>>(_grupoRepository.ObterTodosGrupos());
         }
 
         public Grupo ObterGrupoPorID(int id)
         {
-
 
             return _grupoRepository.ObterGrupoPorId(id);
         }

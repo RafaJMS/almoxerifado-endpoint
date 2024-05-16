@@ -10,7 +10,6 @@ namespace AlmoxarifadoInfrastructure.Data.Interfaces
     public interface IItensNotaRepository
     {
         List<Itens_Nota> ObterTodosItensNota();
-        Itens_Nota ObterItemNotaPorID(int id);
         Itens_Nota CriarItemNota(Itens_Nota itemNota);
     }
 }
